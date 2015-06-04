@@ -8,8 +8,9 @@ nav ul {
   padding: 10px 20px;
 }
 
-nav ul a li{
+nav ul a li {
   list-style: none;
+}
 
 article {
   margin-top: 10px;
